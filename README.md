@@ -41,8 +41,6 @@ An AI-powered MCQ Quiz Generator built using Streamlit and Groq LLM API.
 
 ## 1. Clone Repository
 
-```
-
 ## 2. Install Dependencies
 
 ```bash

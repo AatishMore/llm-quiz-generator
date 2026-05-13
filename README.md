@@ -39,13 +39,11 @@ An AI-powered MCQ Quiz Generator built using Streamlit and Groq LLM API.
 
 #  Setup Instructions
 
-## 1️⃣ Clone Repository
+## 1. Clone Repository
 
 ```
 
----
-
-## 2️⃣ Install Dependencies
+## 2. Install Dependencies
 
 ```bash
 pip install -r requirements.txt
@@ -53,7 +51,7 @@ pip install -r requirements.txt
 
 ---
 
-## 3️⃣ Create `.env` File
+## 3. Create `.env` File
 
 ```env
 GROQ_API_KEY=your_groq_api_key
@@ -61,7 +59,7 @@ GROQ_API_KEY=your_groq_api_key
 
 ---
 
-## 4️⃣ Run Application
+## 4. Run Application
 
 ```bash
 streamlit run llm_activity.py
